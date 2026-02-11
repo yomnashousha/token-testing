@@ -20,7 +20,7 @@ Features:
 
 <!-- dash-content-end -->
 
-## Getting Started
+## Getting Started edits
 
 Outside of this repo, you can start a new project with this template using [C3](https://developers.cloudflare.com/pages/get-started/c3/) (the `create-cloudflare` CLI):
 
